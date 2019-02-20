@@ -8,7 +8,7 @@ Here are some of my websites:
 
 * [Carambola](https://carambola.com.vc/) website made in a freelance project to Carambola company.
 
-* [Kademi plataform](htp://www.kademi.com.br) I worked for kademi plataform as user experience and frontend developer.
+* [Kademi plataform](http://www.kademi.com.br) I worked for kademi plataform as user experience and frontend developer.
 
 
 * [Landing page] (https://thaisavelino.github.io/LdPageSummit/) for a hackathon project at GamaAcademy Brazil, [check the code](https://github.com/thaisavelino/LdPageSummit)
