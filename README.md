@@ -6,7 +6,7 @@ Here are some of my websites:
 
 * Edushifts [website](https://edushifts.world/) made for a project that I'm engaged on called Edushifts that connect educational activists all over the world and play the shift on education [code available here](https://github.com/edushifts/Edushifts-website).
 
-* [Carambola company website](https://carambola.com.vc/) website made in a freelance project to Carambola company.
+* [Carambola](https://carambola.com.vc/) website made in a freelance project to Carambola company.
 
 * [Kademi plataform](htp://www.kademi.com.br) I worked for kademi plataform as user experience and frontend developer.
 
